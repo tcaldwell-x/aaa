@@ -7,7 +7,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "npm start"
   },
   "dependencies": {
     "body-parser": "^1.16.1",
