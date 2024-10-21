@@ -2,9 +2,7 @@
   "name": "twitter-webhook-boilerplate-node",
   "version": "1.0.0",
   "description": "Sample web app and helper scripts to get started with Twitter's Account Activity API",
-  "engines": {
-    "node": "5.9.1"
-  },
+  "engines": { "node": "20.x" },
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
